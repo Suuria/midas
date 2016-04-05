@@ -6,6 +6,7 @@
  * Time: 09:24
  */
 
+<<<<<<< HEAD
 include "head.php";
 include "config/mysql.php";
 
@@ -32,3 +33,7 @@ if (mysqli_num_rows($data) > 0) {
 
 echo "</table></body>";
 include "footer.php";
+=======
+echo "hello world";
+echo "test";
+>>>>>>> origin/master
